@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "AmaniRepo",
+    name: "AmaniVoiceAssistantSDK",
     defaultLocalization: "en",
     platforms: [
         .iOS(.v13)
